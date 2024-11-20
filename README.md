@@ -1,6 +1,4 @@
-# CSCI 6409 Group 8 - Data Science Project
-
-Project - Stock Price Prediction using LSTM
+# Project - Stock Price Prediction using LSTM
 
 Team Members -
 
