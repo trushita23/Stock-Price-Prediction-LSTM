@@ -4,7 +4,7 @@ Team Members -
 
 - [Trushita Maurya](trushita.maurya@dal.ca) - (Maintainer)
 - [Nishit Mistry](nishit.mistry@dal.ca) - (Maintainer)
-- _Git Course Repository_: https://git.cs.dal.ca/nmistry/csci-6409-group8
+
 
 # Steps to run on local machine/jupyter notebook:
 
